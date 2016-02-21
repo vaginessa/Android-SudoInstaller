@@ -3,7 +3,7 @@ Sudo for Android Installer
 
 This tool installs a simple sudo script to your /system/xbin/.
 
-More information: https://darkrealmgaming.com/about/androidsudo/
+More information: soon.
 
 
 Download
@@ -11,13 +11,13 @@ Download
 
 [Download the latest version from the Google Play Store](https://play.google.com/store/apps/details?id=com.darkrealmgaming.androidsudo)
 
-Google Play not for you? [Download the latest APK from DRGdl](https://dl.darkrealmgaming.com/development/android/sudoinstaller/latest.php)
+Google Play not for you? [Download the latest APK](https://cdn.coltondrg.com/androidsudo-221.apk)
 
-Don't want the latest version? [View all versions on DRGdl Browser](https://dl.darkrealmgaming.com/development/android/sudoinstaller/)
+~~Don't want the latest version? View all versions~~ I've lost all the old versions. Guess you'll just have to use latest (or compile an old one yourself)
 
 
 
-The current latest version supports Android 4.0+. If you need to use this on Android 2.x, you can [download version 2.1.0 from DRGdl](https://dl.darkrealmgaming.com/development/android/sudoinstaller/androidsudo-210.apk) which was the last version to support Android 2.2+.
+~~The current latest version supports Android 4.0+. If you need to use this on Android 2.x, you can download version 2.1.0, which was the last version to support Android 2.2+.~~ I've lost the APK for this version. I will be downloading the old code and recompiling it to recreate it soon. Sorry for any inconvenience.
 
 
 Source Code
@@ -35,6 +35,6 @@ It may also have universal bugs (with all devices and versions), or bugs with sp
 Legal (Licensing and Copyright Information)
 ===========================================
 
-Copyright &copy; 2014-2015 Dark Realm Gaming (darkrealmgaming.com)
+Copyright &copy; 2014-2016 Dark Realm Gaming (darkrealmgaming.com)
 <br>
 Licensed under The MIT License (http://github.com/ColtonDRG/AndroidSudo/blob/master/LICENSE)
