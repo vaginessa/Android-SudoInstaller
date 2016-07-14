@@ -1,3 +1,5 @@
+This branch represents the final version released with the com.darkrealmgaming.androidsudo namespace, verstion 2.2.2. See the master branch for more up-to-date development.
+
 Sudo for Android Installer
 ==========================
 
