@@ -1,3 +1,6 @@
+This branch represents version 2.2.1, the last version before the project was switched to Android Studio. Please check out the master branch for the latest code.
+
+
 Sudo for Android Installer
 ==========================
 
